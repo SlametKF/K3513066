@@ -1,6 +1,5 @@
 <?php
 //tugas1
-//foss2013
 /**
  * CodeIgniter
  *
